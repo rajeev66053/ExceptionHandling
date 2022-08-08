@@ -1,4 +1,4 @@
-package exceptions;
+
 
 public class FinalizeExample {
 	public static void main(String[] args)     

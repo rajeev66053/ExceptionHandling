@@ -1,4 +1,4 @@
-package exceptions;
+
 
 class Parent3{    
 	  void msg() throws ArithmeticException {  

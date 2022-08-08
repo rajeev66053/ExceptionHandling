@@ -1,4 +1,4 @@
-package exceptions;
+
 
 class UserDefinedException extends Exception {
 	

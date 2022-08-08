@@ -1,4 +1,4 @@
-package exceptions;
+
 
 class Parent4{    
 	  void msg()throws Exception {  
