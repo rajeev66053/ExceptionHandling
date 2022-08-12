@@ -12,12 +12,18 @@
 			2. SQL Exception
 			3. ClassNotFound Exception
 			4. FileNotFound Exception
+			5. InvocationTargetException
 		2. Unchecked Exception/Runtime Exceptions
-			1. Null Pointer Exception
-			2. Number Format Exception
-			3. Index OutOfBound Exception
-				1. ArrayIndexOutOfBound Exception
-				2. StringIndexOutOfBound Exception
+			1. ArithmeticException
+			2. NullPointerException
+			3. ArrayIndexOutOfBoundsException
+			4. NumberFormatException
+			5. InputMismatchException
+			6. IllegalStateException
+			7. Missing Resource Exception
+			8. No Such Element Exception
+			9. Undeclared Throwable Exception
+			10. Empty Stack Exception
 	2. Error
 		1. StackOverflow Error
 		2. OutOfMemory Error
